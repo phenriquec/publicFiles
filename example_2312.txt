@@ -1,0 +1,60 @@
+message:
+
+{
+  "interactiveMessage": {
+    "header": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQODpCqfJ3YBWlXimxcAOX_yyhR8Fnnj3oGoyJKqaqtvFmxRT_MtuuYVUXQ3YqoutNEk3Vpvq1_zMcDEdl5wizSOHIEqi_bq26Bk0RT1xQ?ccb=9-4&oh=01_Q5Aa3QEbHEvdF3pKrl_hx034iePPWHBRyyhNaQHjRRuhhvyYLQ&oe=69721D42&_nc_sid=e6ed6c&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "caption",
+        "fileSha256": "QYR5p88GiF0/9NDTbZiHhCZ1NyCBzVaNFD06VRLXtuU=",
+        "fileLength": "24959",
+        "height": 844,
+        "width": 978,
+        "mediaKey": "elSvsWx893C7xG4RA6i2vg/y+knanLuK0NVpwdlcQWw=",
+        "fileEncSha256": "4nXNZ9whMoshkrhVPmavGJDlK/zU1tqucsTaY/iwtr4=",
+        "directPath": "/o1/v/t24/f2/m232/AQODpCqfJ3YBWlXimxcAOX_yyhR8Fnnj3oGoyJKqaqtvFmxRT_MtuuYVUXQ3YqoutNEk3Vpvq1_zMcDEdl5wizSOHIEqi_bq26Bk0RT1xQ?ccb=9-4&oh=01_Q5Aa3QEbHEvdF3pKrl_hx034iePPWHBRyyhNaQHjRRuhhvyYLQ&oe=69721D42&_nc_sid=e6ed6c",
+        "mediaKeyTimestamp": "1766501745",
+        "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAcACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIDBAEFB//EACMQAAICAQMDBQAAAAAAAAAAAAECAAMREiIxBEFhFUJRcaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6BCYJABJOAOTIwzWjZlUPu7n6gSwlborBZXYULFBYQpbuPHiWYC2ItiFHGVPIlG31F9dda1KpGBYX3D8mwhASutKalrQaUUYA+BHhCB//9k="
+      }
+    },
+    "body": {},
+    "nativeFlowMessage": {
+      "buttons": [
+        {
+          "name": "quick_reply",
+          "buttonParamsJson": "{\\"display_text\\":\\"Sim\\",\\"id\\":\\"id1\\"}"
+        }
+      ],
+      "messageVersion": 1
+    }
+  }
+}
+
+additionalNodes:
+{
+  "additionalNodes": [
+    {
+      "tag": "biz",
+      "attrs": {},
+      "content": [
+        {
+          "tag": "interactive",
+          "attrs": {
+            "v": "1",
+            "type": "native_flow"
+          },
+          "content": [
+            {
+              "tag": "native_flow",
+              "attrs": {
+                "v": "2",
+                "name": "mixed"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
